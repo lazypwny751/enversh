@@ -1,0 +1,24 @@
+{
+    "linuxmint": [
+        {
+            "package":  "coreutils",
+            "command":  "ls",
+            "export":   "list"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "mkdir",
+            "export":   "makedirectory"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "rm",
+            "export":   "remove"
+        },
+        {
+            "package":  "python3",
+            "command":  "python3",
+            "export":   "python"
+        }
+    ]
+}
