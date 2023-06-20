@@ -2,9 +2,9 @@
 a sample fake environment manager, cross compatibility wrapper for many linux distros.
 
 # Requirements
-- [bash](https://github.com/user/repository.git)
-- [coreutils](https://github.com/user/repository.git)
-- [jq](https://github.com/user/repository.git)
+- [bash](https://github.com/bminor/bash)
+- [coreutils](https://github.com/coreutils/coreutils)
+- [jq](https://github.com/jqlang/jq)
 
 # Installation
 ```bash

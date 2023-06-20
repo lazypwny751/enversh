@@ -20,5 +20,54 @@
             "command":  "python3",
             "export":   "python"
         }
+    ],
+    "ubuntu": [
+        {
+            "package":  "coreutils",
+            "command":  "ls",
+            "export":   "list"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "mkdir",
+            "export":   "makedirectory"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "rm",
+            "export":   "remove"
+        },
+        {
+            "package":  "python3",
+            "command":  "python3",
+            "export":   "python"
+        },
+        {
+            "package":  "ponysay",
+            "command":  "ponysay",
+            "export":   "poni"
+        }
+    ],
+    "arch": [
+        {
+            "package":  "coreutils",
+            "command":  "ls",
+            "export":   "list"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "mkdir",
+            "export":   "makedirectory"
+        },
+        {
+            "package":  "coreutils",
+            "command":  "rm",
+            "export":   "remove"
+        },
+        {
+            "package":  "python",
+            "command":  "python",
+            "export":   "python"
+        }
     ]
 }
