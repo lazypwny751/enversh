@@ -130,7 +130,7 @@ case "${DO}" in
 
         # Check if available.
         case "${ID}" in
-            "linuxmint"|"ubuntu"|"debian"|"archlinux")
+            "linuxmint"|"ubuntu"|"debian"|"arch")
                 # Setup the environment path directory.
                 if [[ ! -d "${ENVD}" ]] ; then
                     mkdir -p "${ENVD}"
